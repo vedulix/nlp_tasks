@@ -1,4 +1,4 @@
-#### Task for ["ML and texts"](https://letnyayashkola.org/nlp) workshop at the summer school.
+#### Task for ["ML and texts"](https://letnyayashkola.org/nlp) workshop at the [summer school](https://www.letnyayashkola.org/nlp/).
 
 - Find and count the most frequent words in the dataset
 - Plot frequency list
